@@ -37,7 +37,7 @@ Donde S está definido con el bit menos significativo y Cout con el más signifi
 
 Y por ultimo con el comando always hacemos que siempre se ejecute lo que está dentro, que en este caso es sumar las entradas y asignarlo en la salida.
 
-La principal diferencia entre modulo sum1bcc y modulo sum1bcc_primitive es que, a pesar de que ambas describen un sumador de 2 bits por sus entradas y salidas, en la primera se está realizando la ejecución de la suma, en la segunda solamente se describe el diseño de su circuito lógico
+La principal diferencia entre modulo sum1bcc y modulo sum1bcc_primitive es que, a pesar de que ambas describen un sumador de 2 bits por sus entradas y salidas, en la primera se está realizando la ejecución de la suma, mientras que en la segunda solamente se describe el diseño de su circuito lógico
 
 
 
