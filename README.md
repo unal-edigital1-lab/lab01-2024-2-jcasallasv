@@ -41,7 +41,7 @@ La principal diferencia entre modulo sum1bcc y modulo sum1bcc_primitive es que, 
 
 La simulación se realiza desde Questa con el modulo de sum1bcc_primitive.
 
-![Sum1](./src/Sumador1 Sim.png)
+![](https://github.com/unal-edigital1-lab/lab01-2024-2-jcasallasv/blob/master/src/Sumador1%20Sim.png)
 
 
 
