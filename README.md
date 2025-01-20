@@ -39,6 +39,9 @@ Y por ultimo con el comando always hacemos que siempre se ejecute lo que está d
 
 La principal diferencia entre modulo sum1bcc y modulo sum1bcc_primitive es que, a pesar de que ambas describen un sumador de 2 bits por sus entradas y salidas, en la primera (sum1bcc) se está realizando la ejecución de la suma, mientras que en la segunda (sum1bcc_primitive) solamente se describe el diseño de su circuito lógico
 
+La simulación se realiza desde Questa con el modulo de sum1bcc_primitive.
+
+
 
 
 ### sumador 
