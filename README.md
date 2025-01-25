@@ -43,9 +43,7 @@ La simulación se realiza desde Questa con el modulo de sum1bcc_primitive.
 
 ![](https://github.com/unal-edigital1-lab/lab01-2024-2-jcasallasv/blob/master/src/Sumador1%20Sim.png)
 
+Por ultimo, hacemos la implementación del código en la FPGA. Se define los pines que harán de entradas y salidas para el sumador, así, ya con eso podemos hacer la interacción desde los switches y los leds que trae la tarjeta para así poder comprobar el sumador de 1 bit.
 
 
-
-
-
-### sumador 
+### Sumador 
